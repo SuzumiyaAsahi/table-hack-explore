@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\x64.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|solutionrelative:VmDriver TemplateV1\\x64.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\win10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|solutionrelative:VmDriver TemplateV1\\win10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|solutionrelative:VmDriver TemplateV1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\x64.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|solutionrelative:VmDriver TemplateV1\\x64.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\win10.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E1C9E-6A91-4E66-8A9E-F64189534905}|VmDriver TemplateV1\\VmDriver TemplateV1.vcxproj|solutionrelative:VmDriver TemplateV1\\win10.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "win10.h",
+              "DocumentMoniker": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\win10.h",
+              "RelativeDocumentMoniker": "VmDriver TemplateV1\\win10.h",
+              "ToolTip": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\win10.h",
+              "RelativeToolTip": "VmDriver TemplateV1\\win10.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T06:37:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "win10.c",
+              "DocumentMoniker": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\win10.c",
+              "RelativeDocumentMoniker": "VmDriver TemplateV1\\win10.c",
+              "ToolTip": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\win10.c",
+              "RelativeToolTip": "VmDriver TemplateV1\\win10.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-09T06:37:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "x64.c",
+              "DocumentMoniker": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\x64.c",
+              "RelativeDocumentMoniker": "VmDriver TemplateV1\\x64.c",
+              "ToolTip": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\x64.c",
+              "RelativeToolTip": "VmDriver TemplateV1\\x64.c",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAI0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-09T06:37:55.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "x64.h",
+              "DocumentMoniker": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\x64.h",
+              "RelativeDocumentMoniker": "VmDriver TemplateV1\\x64.h",
+              "ToolTip": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\x64.h",
+              "RelativeToolTip": "VmDriver TemplateV1\\x64.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAEQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-09T06:37:55.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\main.c",
+              "RelativeDocumentMoniker": "VmDriver TemplateV1\\main.c",
+              "ToolTip": "C:\\Users\\78444\\Desktop\\\u540C\u798F\u5BA2\u6808\\\u5B89\u5168\u4EBA\u751F\\WIndows\u5206\u9875\u673A\u5236\u63A2\u7D22\u4EE3\u7801\\VmDriver TemplateV1\\main.c",
+              "RelativeToolTip": "VmDriver TemplateV1\\main.c",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-09T06:37:56.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

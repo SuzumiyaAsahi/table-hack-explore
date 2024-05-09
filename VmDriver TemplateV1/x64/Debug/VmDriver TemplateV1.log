@@ -1,0 +1,26 @@
+﻿  Building 'VmDriver TemplateV1' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\VmDriverTemplateV1.inf
+  Stamping [Version] section with DriverVer=11/16/2023,19.58.49.761
+  main.c
+  win10.c
+  x64.c
+  正在生成代码...
+  VmDriver TemplateV1.vcxproj -> D:\Windows 10\Drivers\VmDriver TemplateV1\x64\Debug\VmDriverTemplateV1.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Windows 10\Drivers\VmDriver TemplateV1\x64\Debug\VmDriverTemplateV1.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Windows 10\Drivers\VmDriver TemplateV1\x64\Debug\VmDriver TemplateV1\vmdrivertemplatev1.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Windows 10\Drivers\VmDriver TemplateV1\x64\Debug\VmDriver TemplateV1\vmdrivertemplatev1.cat
+  
